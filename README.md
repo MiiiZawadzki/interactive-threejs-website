@@ -1,14 +1,9 @@
 # interactive-threejs-website
 
-This template should help get you started developing with Vue 3 in Vite.
+Example of a simple Landing Page made with Vue.js + Tailwind CSS, using Three.js to display an interactive 3D model of a car.
 
-## Recommended IDE Setup
+![3_prettify](https://github.com/user-attachments/assets/7a88ab72-8960-4ee7-8213-545bd827d918)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
 
 ## Project Setup
 
